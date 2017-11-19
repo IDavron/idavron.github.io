@@ -13,18 +13,6 @@ h1.title {
     color: #C3073F;
     font-size: 30pt;
 }
-h2 {
-	font-family: 'Fjalla One', sans-serif;
-    color: #C3073F;
-    text-align: left;
-    font-size: 20pt;
-}
-h3 {
-	font-family: 'Fjalla One', sans-serif;
-    color: #d1cf29;
-    text-align: left;
-    font-size: 15pt;
-}
 p {
 	font-family: 'Roboto', sans-serif;
 	color: #d1cf29;	
@@ -44,12 +32,6 @@ a:link.text, a:visited.text {
 }
 a:hover.text{
 		background-color: #42424A;	;
-}
-ul{
-	font-family: 'Roboto', sans-serif;
-	color: #d1cf29;	
-	text-align: left;
-    font-size: 14pt;
 }
 .Text
 {
